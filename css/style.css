@@ -1,0 +1,106 @@
+body {
+            background-color: #f1f1f1;
+        }
+
+        .navigation {
+            list-style-type: none;
+            padding-left: 0;
+            background-color: #444;
+
+            -webkit-margin-before: 0;
+            -webkit-margin-after: 0;
+
+            font-size: px;
+
+            /*height: 50px;*/
+        }
+
+        .navigation li {
+            display: inline-block;
+            margin: 0;
+
+            text-align: center;
+        }
+
+        .navigation a {
+            margin: 0px;
+            padding: 5px 20px;
+            font-size: 25px;
+            color: white;
+            display: block;
+            height: auto;
+            position: relative;
+            /*border-left: 1px solid white;*/
+
+        }
+
+        .navigation a:hover {
+            border-bottom: 4px solid orange;
+            text-decoration: none;
+            padding-bottom: 1px;
+        }
+
+        .navigation a:after {
+            content: "";
+            display: block;
+            position: absolute;
+            right: -3px;
+            top: 19px;
+            height: 6px;
+            width: 6px;
+            background: #ffffff;
+            opacity: .5;
+        }
+
+        .navigation .last a:after{
+            display: none;
+        }
+
+        .navigation .active a {
+            color: orange;
+            /*background-color: gray;*/
+        }
+
+        .landingimg {
+            height: auto;
+            width: 100%;
+        }
+
+        .bio  {
+            float:left;
+            /*padding: 0px;*/
+            margin-bottom: 10px;
+            background-color: #ffffff;
+            box-shadow: 2px 2px 5px #888888;
+        }
+
+        .bio img {
+            max-width: 40%;
+            float:left;
+        }
+
+        .bio .bio-details {
+            float:left;
+            width: 60%;
+            padding: 5px 20px;
+        }
+
+        .bio .bio-details h3 {
+            margin-top: 0px;
+            margin-bottom: 5px; 
+        }
+
+        .bio .bio-details h5 {
+            margin-top: 5px;
+        }
+
+        .bio-details p {
+            margin: 0px;
+            line-height: 1;
+            text-align: justify;
+        }
+
+        footer {
+            margin-top: 200px;
+            text-align: center;
+        }

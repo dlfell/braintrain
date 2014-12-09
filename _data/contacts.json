@@ -1,0 +1,35 @@
+[{ 
+    name:  "Matti Laine, Ph.D.",
+    title: "Professor of psycholoy",
+    desc:  "Project leader. Adult clinical neuropsychologist whose research interests encompass 
+neurocognition of working memory training, executive functions, bilingualism, language 
+learning, and aphasia.",
+    mail:  "person@mail.mail",
+    phone: "+358 40 7695737",
+    img : "http://placehold.it/200x200"
+},
+{ 
+    name:  "Person Lastname",
+    title: "Title",
+    desc:  "short bioLorem ipiscing elit. Quisque sapien ligula, consecte",
+    mail:  "matti.laine@abo.fi",
+    phone: "+12 123 456 7912",
+    img : "http://placehold.it/200x200"
+},
+{ 
+    name:  "Person Lastname",
+    title: "Title",
+    desc:  "short bioLorem ipiscing elit. Quisque sapien ligula, consecte",
+    mail:  "person@mail.mail",
+    phone: "+12 123 456 7912",
+    img : "http://placehold.it/200x200"
+},
+{ 
+    name:  "Person Lastname",
+    title: "Title",
+    desc:  "short bioLorem ipiscing elit. Quisque sapien ligula, consecte",
+    mail:  "person@mail.mail",
+    phone: "+12 123 456 7912",
+    img : "http://placehold.it/200x200"
+},
+]

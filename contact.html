@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<br>
+<br>
+
+{% for contact in site.data.contacts %}
+
+<div class="col-md-6 col-sm-12">
+    <div class="bio">
+        <img src="{{contact.img}}">
+        <div class="bio-details">
+            <h3>{{ contact.name}}</h3>
+            <h5>{{ contact.title}}</h5>
+            <p> {{ contact.desc }} </p>
+            <ul class="list-unstyled">
+                <li><i class="fa fa-mobile pr-10 pl-5"></i>{{ contact.phone}}</li>
+                <li><i class="fa fa-envelope pr-10"></i><a href="{{ contact.mail}}">{{ contact.mail}}</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+{% endfor %}

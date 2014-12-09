@@ -1,0 +1,18 @@
+<header>
+  <div class="row">
+      <div class="topic col-md-12">
+          <h1>BrainTrain</h1>
+          <img src="/assets/images/aalogo.svg">
+
+      </div>
+       <div class="col-md-12">
+       <ul class="navigation">
+          {% assign url = page.url|remove:'index.html' %}
+          {% for link in page.navigation %}
+            <li class="{% if url == link.url %}active{% endif %} {%if forloop.last%} last {% endif %} ">
+                <a href="{{site.baseurl}}{{link.url}}" title="{{link.title}}">{{link.text}}</a>
+            </li>
+          {% endfor %}
+       </ul>
+  </div>
+</header>
