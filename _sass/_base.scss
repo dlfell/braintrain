@@ -133,15 +133,17 @@ body {
 
 .bio img {
     width: 40%;
-    height: 100%;
     float:left;
+    max-height: 210px;
+    max-width: 210px;
 }
 
 .bio .bio-details {
     float:left;
     width: 60%;
-    padding: 15px 15px;
+    padding: 20px;
     font-size: 12px;
+    max-height: 221px;
 
      ul {
         margin-bottom: 0px;
@@ -176,7 +178,7 @@ body {
 
 @media (min-width: 992px) and (max-width: 1200px) {
 
-    .bio-details {
+    .bio .bio-details {
         padding: 10px 15px;
 
         p {
