@@ -4,17 +4,17 @@
     desc:  "Project leader. Adult clinical neuropsychologist whose research interests encompass 
 neurocognition of working memory training, executive functions, bilingualism, language 
 learning, and aphasia.",
-    mail:  "person@mail.mail",
-    phone: "+358 40 7695737",
-    img : "http://placehold.it/200x200"
-},
-{ 
-    name:  "Person Lastname",
-    title: "Title",
-    desc:  "short bioLorem ipiscing elit. Quisque sapien ligula, consecte",
     mail:  "matti.laine@abo.fi",
-    phone: "+12 123 456 7912",
-    img : "http://placehold.it/200x200"
+    phone: "+358 2 215 3442",
+    img : "/assets/images/mattilaine.jpg"
+},
+{ 
+    name:  "Anna Soveri, Ph. D.",
+    title: "Postdoctoral researcher",
+    desc:  "Primary research interests: working memory training, executive functions, and bilingualism.",
+    mail:  "asoveri@abo.fi",
+    phone: "+358 2 215 3436",
+    img : "/assets/images/annasoveri.jpg"
 },
 { 
     name:  "Person Lastname",
@@ -22,7 +22,7 @@ learning, and aphasia.",
     desc:  "short bioLorem ipiscing elit. Quisque sapien ligula, consecte",
     mail:  "person@mail.mail",
     phone: "+12 123 456 7912",
-    img : "http://placehold.it/200x200"
+    img : "http://placehold.it/190x250"
 },
 { 
     name:  "Person Lastname",
@@ -30,6 +30,6 @@ learning, and aphasia.",
     desc:  "short bioLorem ipiscing elit. Quisque sapien ligula, consecte",
     mail:  "person@mail.mail",
     phone: "+12 123 456 7912",
-    img : "http://placehold.it/200x200"
+    img : "http://placehold.it/190x250"
 },
 ]
