@@ -1,6 +1,5 @@
 body {
     background-color: #f1f1f1;
-    font-size: 16px; 
 }
 
 .row {
@@ -35,8 +34,14 @@ body {
 }
 
 .content {
+    padding-top: 10px;
     background-color: white;
     float: left;
+    font-size: 18px
+}
+
+.post-meta {
+    color: gray
 }
 
 .navigation {
@@ -103,6 +108,7 @@ body {
 .landingimg {
     height: auto;
     width: 100%;
+    margin-top: -10px;
 }
 
 .relativecontainer {
@@ -178,6 +184,15 @@ body {
 
 }
 
+.research-list {
+    list-style-type:none;
+    list-style-position: inside;
+    padding: 0px;
+    li {
+        padding-bottom: 10px;
+    }
+}
+
 @media (min-width: 992px) and (max-width: 1200px) {
 
     .bio .bio-details {
@@ -207,7 +222,7 @@ body {
         }
 
         h5 {
-            font-size: 16px; 
+            font-size: 16   px; 
         }
 
     }

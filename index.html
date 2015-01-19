@@ -7,24 +7,25 @@ layout: default
     <img class="landingimg" src="/assets/images/BrainTrain_Arken.jpg">
     <div class="relativecontainer">
         
-        <h2 class="landingimgtext">Test text here</h2>
+        <!--<h2 class="landingimgtext">Test text here</h2>-->
     </div>
 </div>
 
 <div class="col-sm-12 col-md-8">
-    <h2>Lorem ipsum</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien ligula, consectetur vel nisi ut, rutrum mollis nibh. Curabitur interdum suscipit velit, vitae vestibulum augue volutpat quis. Integer in lectus ac arcu vehicula consequat a in lacus. Fusce porta justo in lorem cursus, eget venenatis purus ullamcorper. Nullam posuere pretium arcu non tincidunt. Aenean in elementum mauris, sit amet ultricies felis. In vitae pharetra dolor, interdum volutpat eros. Donec sed eleifend ex, non ultrices turpis. Donec sapien est, dictum quis placerat et, faucibus a risus. Morbi vitae ipsum a est congue semper ac a eros. Sed mattis libero ac facilisis rhoncus. Donec eget purus in nulla imperdiet laoreet nec in mauris.
-    </p>
-    <p>
-    Praesent vel metus at diam sollicitudin pharetra non at orci. Nulla a ullamcorper elit. Donec gravida semper nunc. Praesent a felis eget risus tristique auctor in vitae quam. Proin non ligula in eros aliquam commodo at at urna. Donec rutrum in nulla vitae maximus. Nunc nec tincidunt turpis. Cras vel nisl metus. Etiam nec hendrerit lectus. Nulla laoreet hendrerit ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In pretium libero ligula, vehicula rhoncus lectus gravida et. Etiam fringilla elit sit amet risus volutpat varius. Pellentesque tincidunt sed mi eget pretium. Curabitur iaculis fermentum justo, vitae pulvinar lectus aliquet at.
+    <h2>BrainTrain</h2>
+    <p>The BrainTrain project is one of the Research Centres of Excellence (2015-2018) at the 
+Abo Akademi University, Turku, Finland.
+The project studies working memory training, its cognitive and neural mechanisms, and the 
+mental architecture of executive functions.
+A related research topic is executive functioning in bilingualism.
     </p>
 </div>
 
 <div class="col-md-4 col-sm-12">
     <h2>News</h2>
-    {% for post in site.posts limit: 5 %}
+    {% for post in site.posts limit: 3 %}
     <div class="newsitem">
-        <h4>{{post.title}}</h4>
+        <h3><a href="{{post.url}}">{{post.title}}</a></h3>
         <p>{{ post.excerpt | truncatewords:20 }}</p>
         <p><a href="{{ post.url }}">  Read More</a></p>
     </div>

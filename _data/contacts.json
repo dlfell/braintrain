@@ -1,10 +1,10 @@
 [{ 
     name:  "Matti Laine, Ph.D.",
-    title: "Professor of psycholoy",
+    title: "Professor of psychology",
     desc:  "Project leader. Adult clinical neuropsychologist whose research interests encompass 
 neurocognition of working memory training, executive functions, bilingualism, language 
 learning, and aphasia.",
-    mail:  "matti.laine@abo.fi",
+    mail:  "matti.laine(AT)abo.fi",
     phone: "+358 2 215 3442",
     img : "/assets/images/mattilaine.jpg"
 },
@@ -12,23 +12,25 @@ learning, and aphasia.",
     name:  "Anna Soveri, Ph. D.",
     title: "Postdoctoral researcher",
     desc:  "Primary research interests: working memory training, executive functions, and bilingualism.",
-    mail:  "asoveri@abo.fi",
+    mail:  "asoveri(AT)abo.fi",
     phone: "+358 2 215 3436",
     img : "/assets/images/annasoveri.jpg"
 },
 { 
-    name:  "Person Lastname",
-    title: "Title",
-    desc:  "short bioLorem ipiscing elit. Quisque sapien ligula, consecte",
-    mail:  "person@mail.mail",
-    phone: "+12 123 456 7912",
+    name:  "Minna Lehto",
+    title: "Deputy project leader",
+    desc:  "My research here at Abo Akademi and at CBRU at Univ. Helsinki 
+deals with cognitive and neural basis of language processing and learning, bilingualism, 
+and executive functions.",
+    mail:  "minlehto(AT)abo.fi",
+    phone: "+358 2 215 4533",
     img : "http://placehold.it/190x250"
 },
 { 
-    name:  "Person Lastname",
-    title: "Title",
+    name:  "Daniel Wärnå",
+    title: "Software Developer",
     desc:  "short bioLorem ipiscing elit. Quisque sapien ligula, consecte",
-    mail:  "person@mail.mail",
+    mail:  "daniel.warna@gmail.com  ",
     phone: "+12 123 456 7912",
     img : "http://placehold.it/190x250"
 },
