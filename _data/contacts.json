@@ -9,6 +9,24 @@ learning, and aphasia.",
     img : "/assets/images/mattilaine.jpg"
 },
 { 
+    name:  "Minna Lehtonen",
+    title: "Deputy project leader",
+    desc:  "My research here at Abo Akademi and at CBRU at Univ. Helsinki 
+deals with cognitive and neural basis of language processing and learning, bilingualism, 
+and executive functions.",
+    mail:  "minna.lehtonen(AT)abo.fi",
+    phone: "+358 2 215 4533",
+    img : "/assets/images/minnalehtonen.jpg"
+},
+{ 
+    name:  "Petra Grönholm-Nyman",
+    title: "",
+    desc:  "",
+    mail:  "",
+    phone: "",
+    img : "http://placehold.it/190x250&text=+"
+},
+{ 
     name:  "Anna Soveri, Ph. D.",
     title: "Postdoctoral researcher",
     desc:  "Primary research interests: working memory training, executive functions, and bilingualism.",
@@ -17,14 +35,20 @@ learning, and aphasia.",
     img : "/assets/images/annasoveri.jpg"
 },
 { 
-    name:  "Minna Lehto",
-    title: "Deputy project leader",
-    desc:  "My research here at Abo Akademi and at CBRU at Univ. Helsinki 
-deals with cognitive and neural basis of language processing and learning, bilingualism, 
-and executive functions.",
-    mail:  "minna.lehtonen(AT)abo.fi",
-    phone: "+358 2 215 4533",
-    img : "http://placehold.it/190x250"
+    name:  "Otto Waris",
+    title: "",
+    desc:  "",
+    mail:  "",
+    phone: "",
+    img : "http://placehold.it/190x250&text=+"
+},
+{ 
+    name:  "Jussi Jylkkä",
+    title: "",
+    desc:  "",
+    mail:  "",
+    phone: "",
+    img : "http://placehold.it/190x250&text=+"
 },
 { 
     name:  "Daniel Wärnå",

@@ -37,7 +37,10 @@ body {
     padding-top: 10px;
     background-color: white;
     float: left;
-    font-size: 18px
+    font-size: 18px;
+    line-height:1.5;
+
+    margin-bottom: 150px;
 }
 
 .post-meta {
@@ -193,6 +196,16 @@ body {
     }
 }
 
+.imagecontainer {
+    img {
+        width: 100%;
+    }
+
+    p {
+        text-align: center;
+    }
+}
+
 @media (min-width: 992px) and (max-width: 1200px) {
 
     .bio .bio-details {
@@ -229,6 +242,7 @@ body {
 }
 
 footer {
-    margin-top: 200px;
-    text-align: center;
+    background-color: #444;
+    color: white;
+    /*margin-top: 150px;*/
 }
