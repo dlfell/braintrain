@@ -139,6 +139,8 @@ body {
     background-color: #ffffff;
     box-shadow: 2px 2px 5px #888888;
     width: 100%;
+    overflow: hidden;
+    max-height: 255px;
 }
 
 .bio img {
@@ -216,12 +218,17 @@ body {
         min-height: 85px;
         } 
     }
+
+    .bio {
+        max-height: 209px;
+    }
 }
 
 @media (max-width: 992px){
 
     .bio {
         font-size: 120%;
+        max-height: 500px;
     }
 
     .bio .bio-details {
