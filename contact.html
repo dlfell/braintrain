@@ -15,7 +15,9 @@ layout: default
             <h5>{{ contact.title}}</h5>
             <p> {{ contact.desc }} </p>
             <ul class="list-unstyled">
+                {% if contact.phone %}
                 <li><i class="fa fa-mobile pr-10 pl-5"></i>{{ contact.phone}}</li>
+                {% endif %}
                 <li><i class="fa fa-envelope pr-10"></i><a href="{{ contact.mail}}">{{ contact.mail}}</a></li>
             </ul>
         </div>

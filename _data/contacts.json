@@ -5,7 +5,7 @@
 neurocognition of working memory training, executive functions, bilingualism, language 
 learning, and aphasia.",
     mail:  "matti.laine(AT)abo.fi",
-    phone: "+358-2-2153442",
+    phone: "+358 2 2153442",
     img : "/assets/images/mattilaine.jpg"
 },
 { 
@@ -20,11 +20,13 @@ and executive functions.",
 },
 { 
     name:  "Petra Grönholm-Nyman",
-    title: "",
-    desc:  "",
-    mail:  "",
-    phone: "",
-    img : "http://placehold.it/190x250&text=+"
+    title: "Postdoctoral researcher (Academy of Finland)
+",
+    desc:  "Research interests: trainability of executive functions, neural correlates of cognitive 
+functions in normal aging",
+    mail:  "petra.gronholm-nyman@(AT)abo.fi",
+    phone: "+358 2 215 4737",
+    img : "/assets/images/petragronholmnyman.jpg"
 },
 { 
     name:  "Anna Soveri, Ph. D.",
@@ -53,9 +55,8 @@ and executive functions.",
 { 
     name:  "Daniel Wärnå",
     title: "Software Developer",
-    desc:  "short bioLorem ipiscing elit. Quisque sapien ligula, consecte",
+    desc:  "Specializing in both fontend and backend web development and UI/UX design",
     mail:  "daniel.warna(AT)abo.fi  ",
-    phone: "+12 123 456 7912",
     img : "http://placehold.it/190x250"
 },
 ]
