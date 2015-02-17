@@ -1,7 +1,7 @@
 [{ 
     name:  "Matti Laine, Ph.D.",
-    title: "Professor of psychology",
-    desc:  "Project leader. Adult clinical neuropsychologist whose research interests encompass 
+    title: "Project leader",
+    desc:  "Professor of psychology. Adult clinical neuropsychologist whose research interests encompass 
 neurocognition of working memory training, executive functions, bilingualism, language 
 learning, and aphasia.",
     mail:  "matti.laine(AT)abo.fi",
@@ -57,6 +57,6 @@ functions in normal aging",
     title: "Software Developer",
     desc:  "Specializing in both fontend and backend web development and UI/UX design",
     mail:  "daniel.warna(AT)abo.fi  ",
-    img : "http://placehold.it/190x250"
+    img : "/assets/images/danielwarna.jpg"
 },
 ]
