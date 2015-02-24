@@ -40,17 +40,22 @@ functions in normal aging",
     name:  "Otto Waris",
     title: "",
     desc:  "",
-    mail:  "",
-    phone: "",
-    img : "http://placehold.it/190x250&text=+"
+    mail:  "otto.waris(AT)abo.fi",
+    img : "/assets/images/ottowaris.jpg"
 },
 { 
     name:  "Jussi Jylkkä",
     title: "",
+    desc:  "My research at the Abo University deals with bilingualism and executive functions.",
+    mail:  "jussi.jylkka(AT)abo.fi",
+    img : "/assets/images/jussijylkka.jpg"
+},
+{ 
+    name:  "Linda Karlsson",
+    title: "",
     desc:  "",
-    mail:  "",
-    phone: "",
-    img : "http://placehold.it/190x250&text=+"
+    mail:  "linda.karlsson@abo.fi",
+    img : "/assets/images/lindakarlsson.jpg"
 },
 { 
     name:  "Daniel Wärnå",
