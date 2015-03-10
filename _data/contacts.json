@@ -1,4 +1,4 @@
-[{ 
+    [{ 
     name:  "Matti Laine, Ph.D.",
     title: "Project leader",
     desc:  "Professor of psychology. Adult clinical neuropsychologist whose research interests encompass 
@@ -35,6 +35,20 @@ functions in normal aging",
     mail:  "Anna.Soveri(AT)abo.fi",
     phone: "+358 2 215 3436",
     img : "/assets/images/annasoveri.jpg"
+},
+{
+    name:  "Petra-Ann Boman",
+    title: "",
+    desc:  "",
+    mail:  "petra.boman(AT)abo.fi",
+    img:  "/assets/images/keeka_.jpg"
+},
+{
+    name:  "Christel Lundin",
+    title: "",
+    desc:  "",
+    mail:  "",
+    img:  "/assets/images/christel_.jpg"
 },
 { 
     name:  "Otto Waris",
