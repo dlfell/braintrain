@@ -53,8 +53,8 @@ including those with specific learning difficulties.",
 },
 { 
     name:  "Otto Waris",
-    title: "My research focuses on working memory functions and their malleability to computerized training.",
-    desc:  "",
+    title: "",
+    desc:  "My research focuses on working memory functions and their malleability to computerized training.",
     mail:  "otto.waris(AT)abo.fi",
     img : "/assets/images/ottowaris.jpg"
 },
