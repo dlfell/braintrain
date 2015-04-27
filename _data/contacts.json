@@ -23,7 +23,7 @@ and executive functions.",
     title: "Postdoctoral researcher (Academy of Finland)
 ",
     desc:  "Research interests: trainability of executive functions, neural correlates of cognitive 
-functions in normal aging",
+functions in normal aging.",
     mail:  "petra.gronholm-nyman@(AT)abo.fi",
     phone: "+358 2 215 4737",
     img : "/assets/images/petragronholmnyman.jpg"
@@ -39,20 +39,21 @@ functions in normal aging",
 {
     name:  "Petra-Ann Boman",
     title: "",
-    desc:  "",
+    desc:  "My research is related to working memory training in school-aged children with or without specific learning difficulties.",
     mail:  "petra.boman(AT)abo.fi",
     img:  "/assets/images/keeka_.jpg"
 },
 {
     name:  "Christel Lundin",
     title: "",
-    desc:  "",
+    desc:  " I am studying the effects of working memory training in school children, 
+including those with specific learning difficulties.",
     mail:  "",
     img:  "/assets/images/christel_.jpg"
 },
 { 
     name:  "Otto Waris",
-    title: "",
+    title: "My research focuses on working memory functions and their malleability to computerized training.",
     desc:  "",
     mail:  "otto.waris(AT)abo.fi",
     img : "/assets/images/ottowaris.jpg"
@@ -64,11 +65,20 @@ functions in normal aging",
     mail:  "jussi.jylkka(AT)abo.fi",
     img : "/assets/images/jussijylkka.jpg"
 },
+{
+    name: "Karolina Lukasik",
+    title: "",
+    desc: "I'm a doctoral student in BrainTrain project. My research interests are: executive 
+functions, bilingualism, and cognitive neuroscience.",
+    mail: "karolina.lukasik(AT)abo.fi",
+    img: "/assets/images/karolina.jpg"
+},
+
 { 
     name:  "Linda Karlsson",
     title: "",
-    desc:  "",
-    mail:  "linda.karlsson@abo.fi",
+    desc:  "I am working as a project researcher on various subprojects of the BrainTrain.",
+    mail:  "linda.karlsson(AT)abo.fi",
     img : "/assets/images/lindakarlsson.jpg"
 },
 { 
