@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learning and Plasticity meeting, 13-15 April 2015
+category: news
 ---
 
 Together with the Turku Brain and Mind Center (see [http://www.tbmc.fi](http://www.tbmc.fi)), BrainTrain organizes the first Learning and Plasticity (LaP) meeting 13-15 April 2015 in the Finnish Lapland.This is a cross-disciplinary meeting connecting psychological and neuroscience research on the mechanisms of learning. The special theme of the 2015 meeting is Executive functions, including their underlying factors, development, and malleability through training.

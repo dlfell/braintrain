@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Open Positions
+category: news
 ---
 
 We invite applications for two positions as doctoral students in psychology and one position as university researcher (alternatively post-doctoral researcher) in psychology to the research project BrainTrain at the Department of Psychology, Abo Akademi University, Turku. Deadline for applications: Monday, January 19th, 2015 at 3 p.m. local time.

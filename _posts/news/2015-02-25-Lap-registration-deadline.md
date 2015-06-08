@@ -1,6 +1,7 @@
 ---
 title: Registration to the LaP meeting by March 2nd!
 layout: post
+category: news
 ---
 
 The early bird registration deadline for the Learning and Plasticity congress is quickly 

@@ -1,6 +1,7 @@
 ---
 title: New article on neural aspects of bilingualism
 layout: post
+category: news
 ---
 
 A new article on neural aspects of bilingualism asks whether brain responses to spoken words are altered depending on context. Is it the case that we are able to – to some extent – “shut down” or inhibit the language we are not currently listening, and to tune in specifically to the language relevant in the context? A recent magnetoencephalography study by Pellikka, Helenius, Mäkelä and Lehtonen (2015) suggests that this kind of deactivation of an irrelevant language is possible, but that it only takes place for the native language. This is because a stronger language is likely to create more interference in a non-native listening context than a weaker language in a native language context. 
