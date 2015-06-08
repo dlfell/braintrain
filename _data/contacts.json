@@ -81,6 +81,15 @@ functions, bilingualism, and cognitive neuroscience.",
     mail:  "linda.karlsson(AT)abo.fi",
     img : "/assets/images/lindakarlsson.jpg"
 },
+
+{ 
+    name:  "Adrià Vilà Balló",
+    title: "",
+    desc:  "My research interest is related to cognitive control and executive function training in normal and clinical groups",
+    mail:  "",
+    img : "/assets/images/adria.jpg"
+},
+
 { 
     name:  "Daniel Wärnå",
     title: "Software Developer",
