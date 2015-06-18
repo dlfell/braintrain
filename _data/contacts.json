@@ -36,6 +36,12 @@ functions in normal aging.",
     phone: "+358 2 215 3436",
     img : "/assets/images/annasoveri.jpg"
 },
+{ 
+    name:  "Juha Salmitaival",
+    title: "Postdoctoral researcher",
+    desc:  "",
+    img : "/assets/images/Salmitaival_Juha.jpg"
+},
 {
     name:  "Petra-Ann Boman",
     title: "",
