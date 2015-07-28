@@ -38,8 +38,9 @@ functions in normal aging.",
 },
 { 
     name:  "Juha Salmitaival",
-    title: "Postdoctoral researcher",
-    desc:  "",
+    title: "Senior researcher",
+    desc:  "My current research interests are mainly in typical and atypical development and malleability of cognitive control functions and related brain mechanisms.",
+    mail: "juha.salmitaival(AT)abo.fi",
     img : "/assets/images/Salmitaival_Juha.jpg"
 },
 {
