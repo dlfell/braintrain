@@ -10,10 +10,8 @@ learning, and aphasia.",
 },
 { 
     name:  "Minna Lehtonen",
-    title: "Deputy project leader",
-    desc:  "My research here at Abo Akademi and at CBRU at Univ. Helsinki 
-deals with cognitive and neural basis of language processing and learning, bilingualism, 
-and executive functions.",
+    title: "Deputy project leader, Ph.D.",
+    desc:  "Acedemy Research Fellow. My research focuses on cognitive and neural basis of language processing, bilingualism, and executive functions.",
     mail:  "minna.lehtonen(AT)abo.fi",
     phone: "+358 2 215 4533",
     img : "/assets/images/minnalehtonen.jpg"
