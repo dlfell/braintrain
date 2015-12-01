@@ -88,6 +88,14 @@ functions, bilingualism, and cognitive neuroscience.",
 },
 
 { 
+    name:  "Daniel Fellman",
+    title: "",
+    desc:  "I'm a doctoral student in the BrainTrain project. My research interests are: Verbal working memory, cognitive neuroscience, and psycholinguistics.",
+    mail:  "daniel.fellman(AT)abo.fi",
+    img : "/assets/images/daniel_fellman.jpg"
+},
+
+{ 
     name:  "Adrià Vilà Balló",
     title: "",
     desc:  "My research interest is related to cognitive control and executive function training in normal and clinical groups",
