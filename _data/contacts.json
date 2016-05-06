@@ -11,15 +11,14 @@ learning, and aphasia.",
 { 
     name:  "Minna Lehtonen",
     title: "Deputy project leader, Ph.D.",
-    desc:  "Acedemy Research Fellow. My research focuses on cognitive and neural basis of language processing, bilingualism, and executive functions.",
+    desc:  "Academy Research Fellow. My research focuses on cognitive and neural basis of language processing, bilingualism, and executive functions.",
     mail:  "minna.lehtonen(AT)abo.fi",
     phone: "+358 2 215 4533",
     img : "/assets/images/minnalehtonen.jpg"
 },
 { 
     name:  "Petra Grönholm-Nyman",
-    title: "Postdoctoral researcher (Academy of Finland)
-",
+    title: "Postdoctoral researcher (Academy of Finland)",
     desc:  "Research interests: trainability of executive functions, neural correlates of cognitive 
 functions in normal aging.",
     mail:  "petra.gronholm-nyman@(AT)abo.fi",
@@ -72,7 +71,7 @@ including those with specific learning difficulties.",
 },
 {
     name: "Karolina Lukasik",
-    title: "",
+    title: "PhD student",
     desc: "I'm a doctoral student in BrainTrain project. My research interests are: executive 
 functions, bilingualism, and cognitive neuroscience.",
     mail: "karolina.lukasik(AT)abo.fi",
@@ -89,7 +88,7 @@ functions, bilingualism, and cognitive neuroscience.",
 
 { 
     name:  "Daniel Fellman",
-    title: "",
+    title: "PhD student",
     desc:  "I'm a doctoral student in the BrainTrain project. My research interests are: Verbal working memory, cognitive neuroscience, and psycholinguistics.",
     mail:  "daniel.fellman(AT)abo.fi",
     img : "/assets/images/daniel_fellman.jpg"
@@ -101,6 +100,14 @@ functions, bilingualism, and cognitive neuroscience.",
     desc:  "My research interest is related to cognitive control and executive function training in normal and clinical groups",
     mail:  "",
     img : "/assets/images/Adria.jpg"
+},
+
+{ 
+    name:  "Claudia Peñaloza Salazar",
+    title: "Visiting researcher (IDIBELL, Barcelona), PhD student",
+    desc:  "",
+    mail:  "claudia_penaloza@hotmail.com",
+    img : "/assets/images/Claudia.jpg"
 },
 
 { 
