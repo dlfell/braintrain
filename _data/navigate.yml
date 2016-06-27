@@ -1,0 +1,11 @@
+navigation:
+ - text: Home
+   url: /
+ - text: Research
+   url: /research.html
+ - text: People
+   url: /contact.html
+ - text: Publications
+   url: /publications.html
+ - text: Participation
+   url: /participate.html
