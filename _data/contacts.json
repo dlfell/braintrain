@@ -41,6 +41,14 @@ functions in normal aging.",
     img : "/assets/images/Salmitaival_Juha.jpg"
 },
 {
+    name:  "Marco Bucci",
+    title: "Visiting researcher, PhD in Nuclear Medicine and Clinical Physiology",
+    desc: "I am interested in brain imaging and cognitive neuroscience.",
+    mail: "marco.bucci(AT)abo.fi",
+    img: "/assets/images/marcobucci.jpg",
+},
+    
+{
     name:  "Petra-Ann Boman",
     title: "",
     desc:  "My research is related to working memory training in school-aged children with or without specific learning difficulties.",
