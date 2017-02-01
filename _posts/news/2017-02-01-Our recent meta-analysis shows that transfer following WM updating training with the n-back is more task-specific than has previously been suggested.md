@@ -11,5 +11,5 @@ The efficacy of working memory (WM) training has been a controversial and hotly 
 Soveri, A., Antfolk, J., Karlsson, L., Salo, B., & Laine, M. (2017). Working memory training revisited: A multi-level meta-analysis of n-back training studies. Psychonomic Bulletin & Review. doi:10.3758/s13423-016-1217-0
 
 
-
+Download the article:
 [https://github.com/danielwarna/braintrain/blob/gh-pages/Soveri_et_al_2017_Working_memory_training_revisited.pdf?raw=true](https://github.com/danielwarna/braintrain/blob/gh-pages/Soveri_et_al_2017_Working_memory_training_revisited.pdf?raw=true)
