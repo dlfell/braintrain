@@ -38,13 +38,6 @@
     mail: "juha.salmitaival(AT)abo.fi",
     img : "/assets/images/Salmitaival_Juha.jpg"
 },
-{
-    name:  "Marco Bucci",
-    title: "Visiting researcher, PhD in Nuclear Medicine and Clinical Physiology",
-    desc: "I am interested in brain imaging and cognitive neuroscience.",
-    mail: "marco.bucci(AT)abo.fi",
-    img: "/assets/images/marcobucci_updated.jpg",
-},
     
 {
     name:  "Petra-Ann Boman",
@@ -105,10 +98,17 @@
     mail:  "",
     img : "/assets/images/Adria.jpg"
 },
+{
+    name:  "Marco Bucci",
+    title: "Visiting researcher Autumn 2016 - Spring 2017, PhD in Nuclear Medicine and Clinical Physiology",
+    desc: "I am interested in brain imaging and cognitive neuroscience.",
+    mail: "marco.bucci(AT)abo.fi",
+    img: "/assets/images/marcobucci_updated.jpg",
+},
 
 { 
     name:  "Claudia Peñaloza Salazar",
-    title: "Visiting researcher (IDIBELL, Barcelona), PhD student",
+    title: "Visiting researcher Spring 2016 (IDIBELL, Barcelona), PhD student",
     desc:  "",
     mail:  "claudia_penaloza@hotmail.com",
     img : "/assets/images/claudia.jpg"
