@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ÅBO AKADEMI UNIVERSITY MAGAZINE WRITES ABOUT OUR RESEARCH
+title: 
 category: news
 ---
 
