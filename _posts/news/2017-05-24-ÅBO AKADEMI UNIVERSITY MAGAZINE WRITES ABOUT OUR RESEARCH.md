@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Åbo Akademi University magazine writes about our new research
 category: news
 ---
 
