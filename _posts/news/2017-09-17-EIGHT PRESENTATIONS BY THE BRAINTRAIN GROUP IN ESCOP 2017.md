@@ -4,7 +4,7 @@ title: EIGHT PRESENTATIONS BY THE BRAINTRAIN GROUP IN ESCOP 2017
 category: news
 ---
 
-Together with ca 750 other delegates, the whole BrainTrain research group attended the 20th European Society for Cognitive Psychology conference. It was a good meeting! We gave the following presentations on our recent work (their abstracts can be found at http://www.escop2017.org/program):
+Together with ca 750 other delegates, the whole BrainTrain research group attended the 20th European Society for Cognitive Psychology conference. It was a good meeting! We gave the following presentations on our recent work (their abstracts can be found at [http://www.escop2017.org/program/](http://www.escop2017.org/program/)):
 
 Fellman, Soveri, Viktorsson, Haga, Nylund, Johansson, Edman, von Renteln & Laine: Selective Updating of Sentences: introducing a new measure of verbal working memory
 
