@@ -26,6 +26,7 @@ For further information, see the congress website at [http://congress.utu.fi/lap
 Hope to see you at the Heart of Finnish Lapland in Spring 2018!
 
 The LaP Scientific Committee,
+
 Matti Laine, Åbo Akademi University, Finland (Chair)
 Lars Bäckman, Karolinska Institute, Sweden
 Susanne Jaeggi, University of California at Irvine, USA
