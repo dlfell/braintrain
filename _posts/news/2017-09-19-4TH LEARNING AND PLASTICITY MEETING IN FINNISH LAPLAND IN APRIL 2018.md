@@ -15,10 +15,7 @@ Informal atmosphere and small size (maximum 100 participants) helps to connect p
 Excellent possibilities for winter sports and other outdoors activities
 Despite of its location way above the Polar Circle, the congress site is easy to reach by flight or by train
 
-
 For further information, see the congress website at [http://congress.utu.fi/lap/](http://congress.utu.fi/lap/)
-
-
 
 Hope to see you at the Heart of Finnish Lapland in Spring 2018!
 
