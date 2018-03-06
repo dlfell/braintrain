@@ -13,3 +13,8 @@ These results suggest that a significant part of working memory training effects
 
 The study participants were 116 Finnish adults who were randomized into three groups. The first group received a short strategy instruction and trained a working memory updating task for half an hour. The second group performed the same computerized training session without any strategy advice. The third group participated only in the pre- and posttest. Self-generated strategies were probed with questionnaires at the posttest. This study was conducted in the BrainTrain project (www.braintrain.fi) at the Åbo Akademi University, Turku, Finland, and it was financed by the Åbo Akademi University Endowment and the Academy of Finland. The study has just been published at the peer-reviewed open access journal Scientific Reports: [www.nature.com/articles/s41598-018-22396-5](www.nature.com/articles/s41598-018-22396-5)
 
+
+For further information, please contact
+Professor Matti Laine, PhD
+Department of Psychology, Åbo Akademi University, Turku, Finland
+Email matlaine@abo.fi
