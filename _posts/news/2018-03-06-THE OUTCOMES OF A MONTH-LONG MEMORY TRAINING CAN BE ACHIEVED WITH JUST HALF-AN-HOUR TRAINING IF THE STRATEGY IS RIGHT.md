@@ -17,4 +17,4 @@ The study participants were 116 Finnish adults who were randomized into three gr
 For further information, please contact
 Professor Matti Laine, PhD
 Department of Psychology, Åbo Akademi University, Turku, Finland
-Email [matlaine@.fi](matlaine@abo.fi)
+Email [matlaine@abo.fi](matlaine@abo.fi)
