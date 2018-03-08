@@ -21,7 +21,7 @@ According to Lehtonen, the results indicate that bilingualism or active use of a
 
 “The benefits of bilingualism are in the language skills and what they offer for communication between people and cultures,” says Lehtonen.
 
-The study has recently been published in the prestigious scientific journal Psychological Bulletin. The online publication is available at: [http://dx.doi.org/10.1037/bul0000142/](http://dx.doi.org/10.1037/bul0000142/)
+The study has recently been published in the prestigious scientific journal Psychological Bulletin. The online publication is available at: [https://dx.doi.org/10.1037/bul0000142/](https://dx.doi.org/10.1037/bul0000142/)
 
 The study is part of the research project “Bilingualism and Executive Functions: Tackling the Missing Links” funded by the Academy of Finland.
 
