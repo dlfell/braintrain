@@ -8,9 +8,13 @@ The BrainTrain research group and the Turku Brain and Mind Center will organize 
 
 
 10:15-10:20 Matti Laine (Åbo Akademi University): Welcome
+
 10:20-10:50 Susanne Jaeggi (UC Irvine, CA, USA):  Domain-specific vs. domain-general approaches to improve cognition
+
 10:50-11:20 Martin Buschkuehl (MIND Research Institute, Irvine, CA, USA): Training with clouds: from change detection to non-symbolic arithmetic
+
 11:20-11:40 Daniel Fellman (Åbo Akademi University): Training working memory updating in Parkinson’s disease
+
 11:40-12:00 Juha Salmitaival (University of Turku): Neuronal functions underlying working memory training
 
 
